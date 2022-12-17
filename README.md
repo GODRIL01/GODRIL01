@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
 
 
+#EXTINF:0 tvg-id="WORLD CUP 2022" tvg-logo="https://sctv.static-assets.id/sctv/storage/25050/conversions/website-png-645x645-medium.png" group-title="National TV",WORLD CUP 2022
+https://channel-tdn-cdn.blim.com/manifest.mpd
 
 
 
