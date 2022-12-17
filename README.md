@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 tvg-id="WORLD CUP 2022" tvg-logo="https://images.template.net/118559/world-cup-2022-logo-vector-seon8.jpg" group-title="National TV",WORLD CUP 2022
-http://n1.yacinelivetv.com/live/996251000/index.m3u8
+http://n3.yacinelivetv.com/live/996251000/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
