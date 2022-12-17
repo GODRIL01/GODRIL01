@@ -3,8 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="WORLD CUP 2022" tvg-logo="https://images.template.net/118559/world-cup-2022-logo-vector-seon8.jpg" group-title="National TV",WORLD CUP 2022
-https://channel-tdn-cdn.blim.com/manifest.mpd
-
+https://sv7.gdplayer.to/playlist/UEZaQ0QrN2s0QlJVQW9tNk5QcnVhNU9PbmkrUjd3bWJTNGFLQnVqbmRvWFlFa2ZzUVplMVdRL0tPY1M3Ym9jL1FkRmV6SWZ6QkxEMGhBNnRnNEsxVkE9PQ,,/master.m3u8?token=OEV2MWErNUpsNnRKTjd4QUlZTkdsWVg5bUxXbjhtT0xXSzVtZ1RMbXVqSG5UZXMyUFJSb2dlN1NnZ1Nub1pzd0xKMG45UUU4SmZYRXkybEFteXZVb0E9PQ,,
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
