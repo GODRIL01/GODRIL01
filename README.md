@@ -83,6 +83,9 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV",ANTV
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:0 tvg-id="BAYU TV" tvg-logo="http://2.bp.blogspot.com/_ygTxrbruGv8/TKr-Qab8stI/AAAAAAAAAA0/MPb6ThvwfVM/S910-R/21563_101540826543872_100000638654482_45528_7310156_n.jpg" group-title="National TV",BAYU TV
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/chunklist_w73271864.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -187,6 +190,10 @@ https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKa
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id=" Tawaf TV.Id" tvg-logo="https://tawaf.tv/assets/img/tawaftv.jpg" group-title="Religion",Tawaf TV
 https://liveaneviadev.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:0 tvg-id="MADU TV" tvg-logo="https://madu.tv/wp-content/uploads/2022/01/LOGO-BARU-MADUTV-2021.png" group-title="Religion",MADU TV
+https://re1.siar.us/madutv/hd720/chunks.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
