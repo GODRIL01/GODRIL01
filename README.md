@@ -83,10 +83,6 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV",ANTV
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:0 tvg-id="BAYU TV" tvg-logo="http://2.bp.blogspot.com/_ygTxrbruGv8/TKr-Qab8stI/AAAAAAAAAA0/MPb6ThvwfVM/S910-R/21563_101540826543872_100000638654482_45528_7310156_n.jpg" group-title="National TV",BAYU TV
-https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/chunklist_w73271864.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://cdn.ksa.my.id/jaktv.png" group-title="National TV",JAKTV
@@ -146,8 +142,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEM
 #EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png" group-title="National TV",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Magna Channel " tvg-logo="https://cdn.ksa.my.id/mgn.png"group-title="National TV",Metro Globe Network
@@ -163,7 +157,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-id="JAKARTA GLOBE NEWS" tvg-logo="https://cdn.ksa.my.id/jakartaglobenews.png" group-title="National TV", JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-
+#EXTINF:0 tvg-id="BAYU TV" tvg-logo="http://2.bp.blogspot.com/_ygTxrbruGv8/TKr-Qab8stI/AAAAAAAAAA0/MPb6ThvwfVM/S910-R/21563_101540826543872_100000638654482_45528_7310156_n.jpg" group-title="National TV",BAYU TV
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/chunklist_w73271864.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
