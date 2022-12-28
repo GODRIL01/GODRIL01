@@ -123,7 +123,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w449585463_b3840
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CNBC INDONESIA " tvg-logo="https://cdn.ksa.my.id/cnbcindonesia.png" group-title="National TV",CNBC INDONESIA
-https://live.cbncindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
