@@ -571,7 +571,7 @@ https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://cdn.ksa.my.id/soccerchannel.png" group-title="Sports",Soccer Channel
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:0 tvg-id="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
+#EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20896.m3u8?checkedby:iptvcat.com
 
 
