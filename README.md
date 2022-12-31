@@ -575,7 +575,7 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchan
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20896.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="BEIN SPORTS",BEIN SPORTS ENG 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25114.ts?checkedby:iptvcat.com
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25114.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
