@@ -630,6 +630,10 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://cdn.ksa.my.id/tlc.png" group-title="Lifestyle",TLC
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+#EXTINF:0 tvg-id="TRUE.Id" tvg-logo="" group-title="Sports",TRUE
+https://sport.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+
 
 
 
