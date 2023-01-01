@@ -571,6 +571,11 @@ https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://cdn.ksa.my.id/soccerchannel.png" group-title="Sports",Soccer Channel
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="BEIN SPORTS ENGLISH 2.Id" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="Sports",BEIN SPORTS ENGLISH 2
+http://80.82.65.52:8080/live/8031659300659217/8611659300659217/25114.m3u8?token=Q0FaWEpZFFsXBFcABFkHB1EAAFFUVQkDB1IEVgQDB1QAUFcOWwYOB1YVGEZGFUdTUl9qWwIVAlNXAgFQGENHQ10RbVBdEwxDBwIAXQRDGRRHW1hXRA0ITUBDWQAWWxABDlcDCxsdFARNQ1EWWwBZaVdXQ1sFUhpbDEZcCBhDXV5nB1dUWF9SQw8VBUYZQ1xFQxAPXBNbVE1AUVkQRgBGVRpZXExVXRpDVlhBCkETTBQJEHx2RBsaBBpHVQpHCF1eGlkQVApEDkMZFV0XahNQRUdAUFMLUkpDWBEARhhDX1FAPFFWV19TAkFeWwpGQw8UAhAZEAtYVggWXEI7RAhWEgJBAw8NAQBDSA==
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
