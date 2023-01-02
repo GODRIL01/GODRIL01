@@ -636,16 +636,6 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|http-referrer=https://www.movie87hd.com/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|http-referrer=https://www.movie87hd.com/
-
-
-
 
 
 
