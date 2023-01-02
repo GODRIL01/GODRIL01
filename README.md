@@ -637,10 +637,10 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.m3u8
 
 
-#EXTINF:0 tvg-id="True Premier Football 1.Id" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="sports",True Premier Football 1
+#EXTINF:0 tvg-id="True Premier Football 1.Id" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 tvg-id="True Premier Football 2.Id" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="sports",True Premier Football 2
+#EXTINF:0 tvg-id="True Premier Football 2.Id" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="Sports",True Premier Football 2
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
