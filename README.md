@@ -638,6 +638,9 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
+#EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.m3u8
+
 
 
 
