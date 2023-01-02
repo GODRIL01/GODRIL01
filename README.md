@@ -634,7 +634,7 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:0 tvg-id= True Premier 1.id"tvg-logo="https://i.imgur.com/9FJknMK.png"group-title="Sports",True Premier Football 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
 
 #EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
