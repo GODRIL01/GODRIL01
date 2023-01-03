@@ -633,6 +633,7 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
+http://n2.yacinelivetv.com/live/61616000/index.m3u8?t=kYd5W5FGljhQFINS6k5z3w&e=1672763537
 http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.ts
 
 
