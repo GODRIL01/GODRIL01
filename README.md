@@ -635,6 +635,24 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
 http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.m3u8
 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 1
+http://juzu.online:2082/luinnew/H8hQgb7455/238134
+
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 3
+http://juzu.online:2082/luinnew/H8hQgb7455/238136
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 4
+http://juzu.online:2082/luinnew/H8hQgb7455/238137
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 5
+http://juzu.online:2082/luinnew/H8hQgb7455/238138
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 6
+http://juzu.online:2082/luinnew/H8hQgb7455/238139
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",KSA SSC 7
+http://juzu.online:2082/luinnew/H8hQgb7455/238140
 
 
 
