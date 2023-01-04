@@ -645,6 +645,9 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237797?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="https://getbein.com/us/wp-content/themes/getbein/assets/images/logo-footer.png" group-title="Sports",BEIN SPORT 1 
 http://juzu.online:2082/luinnew/H8hQgb7455/237788?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="AR" tvg-logo=" " group-title="Sports",see sports 1
+http://juzu.online:2082/luinnew/H8hQgb7455/237695?checkedby:iptvcat.com
+
 
 
 
