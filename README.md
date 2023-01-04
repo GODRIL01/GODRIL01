@@ -632,19 +632,10 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://cdn.ksa.my.id/tlc.png" group-title="Lifestyle",TLC
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN SPORTS 1 PREMIUM 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png " group-title="Sports",beIN SPORTS 2 PREMIUM 
-http://juzu.online:2082/luinnew/H8hQgb7455/237700?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AR"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",BEIN SPORT PREMIUM 3 HD
-http://juzu.online:2082/luinnew/H8hQgb7455/237797?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AR" tvg-logo="https://getbein.com/us/wp-content/themes/getbein/assets/images/logo-footer.png" group-title="Sports",BEIN SPORT 1 
-http://juzu.online:2082/luinnew/H8hQgb7455/237788?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sport-1-1-logo.png " group-title="Sports",see sports 1
+#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sport-1-1-logo.png" group-title="Sports",See sports 1
 http://juzu.online:2082/luinnew/H8hQgb7455/237695?checkedby:iptvcat.com
 
 
