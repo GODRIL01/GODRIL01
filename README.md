@@ -633,7 +633,7 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",beIN SPORTS 1 PREMIUM 
-http://juzu.online:2082/luinnew/H8hQgb7455/237683?checkedby:iptvcat.com
+http://juzu.online:2082/luinnew/H8hQgb7455/237700?checkedby:iptvcat.com
 
 
 
