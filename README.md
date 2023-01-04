@@ -632,11 +632,8 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://cdn.ksa.my.id/tlc.png" group-title="Lifestyle",TLC
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:0 tvg-id="BEIN SPORTS PREMIUM 1.Id" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",BEIN SPORTS PREMIUM 1
-http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.ts
-
-#EXTINF:0 tvg-id="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",beIN SPORTS 1 PREMIUM 
+http://juzu.online:2082/luinnew/H8hQgb7455/237683?checkedby:iptvcat.com
 
 
 
