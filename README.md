@@ -635,7 +635,7 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sport-1-1-logo.png" group-title="Sports",See sports 1
+#EXTINF:0 tvg-country="AR" tvg-logo="https://static4.depositphotos.com/1001160/295/v/600/depositphotos_2952427-stock-illustration-soccer-ball.jpg" group-title="Sports",See sports 1
 http://juzu.online:2082/luinnew/H8hQgb7455/237695?checkedby:iptvcat.com
 
 
