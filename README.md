@@ -632,7 +632,7 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://cdn.ksa.my.id/tlc.png" group-title="Lifestyle",TLC
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Sports",beIN SPORTS 1 PREMIUM 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN SPORTS 1 PREMIUM 
 http://juzu.online:2082/luinnew/H8hQgb7455/237700?checkedby:iptvcat.com
 
 
