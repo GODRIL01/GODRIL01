@@ -638,7 +638,7 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237700?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",BEIN SPORT PREMIUM 3 HD
 http://juzu.online:2082/luinnew/H8hQgb7455/237797?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AR" tvg-logo="grhttps://getbein.com/us/wp-content/themes/getbein/assets/images/logo-footer.png" group-title="Sports",BEIN SPORT 1 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://getbein.com/us/wp-content/themes/getbein/assets/images/logo-footer.png" group-title="Sports",BEIN SPORT 1 
 http://juzu.online:2082/luinnew/H8hQgb7455/237788?checkedby:iptvcat.com
 
 
