@@ -37,6 +37,8 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
+https://etslive-2-vidio-com.akamaized.net/exp=1672920221~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=eac5d75c972a57b44b8788e8affea0ca33e291230f3e9ef0ccc7c8c5605c8de5/vp9/11524_stream.mpd
+
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://rr2.dens.tv/s/s41/index.m3u8
 
