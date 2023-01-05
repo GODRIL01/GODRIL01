@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://cdn.ksa.my.id/tvone.png" group-title="National TV",TVONE
@@ -630,10 +632,10 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://cdn.ksa.my.id/tlc.png" group-title="Lifestyle",TLC
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
+#EXTINF:0 tvg-id="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AR" tvg-logo="https://static4.depositphotos.com/1001160/295/v/600/depositphotos_2952427-stock-illustration-soccer-ball.jpg" group-title="Sports",See sports 1
+#EXTINF:0 tvg-id="AR" tvg-logo="https://static4.depositphotos.com/1001160/295/v/600/depositphotos_2952427-stock-illustration-soccer-ball.jpg" group-title="Sports",See sports 1
 http://juzu.online:2082/luinnew/H8hQgb7455/237695?checkedby:iptvcat.com
 
 
