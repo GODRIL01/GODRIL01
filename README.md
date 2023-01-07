@@ -633,7 +633,7 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-country="Bein Sports 1 Peemium" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
 
