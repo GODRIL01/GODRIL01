@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+kok#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
 
 
@@ -40,7 +40,8 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
-https://etslive-2-vidio-com.akamaized.net/exp=1673099160~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=17e6c5aa986fe529e8b451a6885115a0f85af845ec994d0e1ccd08b61c0e6ee1/vp9/11524_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1673113639~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=fd712180a7c39dec68d8d882c94acf549b8217a0361a14406c65bf855c2c81ba/vp9/11524_stream.mpd
+
 http://rr2.dens.tv/s/s41/index.m3u8
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
