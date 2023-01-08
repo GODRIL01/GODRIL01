@@ -40,6 +40,9 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
+https://etslive-2-vidio-com.akamaized.net/exp=1673170827~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=f24acabdcdb26ff47c4bb22783ce24e928b62e128638e2d61db5530d94c6ab7f/vp9/11524_stream.mpd
+
+
 http://rr2.dens.tv/s/s41/index.m3u8
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
@@ -633,7 +636,9 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
-http://juzu.online:2082/luinnew/H8hQgb7455/237683?checkedby:iptvcat.com
+http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
+
+
 
 
 
