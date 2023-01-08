@@ -632,7 +632,7 @@ https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports",beIN Sports 1 Premium
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
 
