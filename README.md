@@ -135,10 +135,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://cdn.ksa.my.id/tvri.png" group-title="National TV",TVRI
-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-
-#EXTINF:0 tvg-id="TVRI Jawa Tengah.Id" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/10.png" group-title="National TV",TVRI Jawa Tengah
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png" group-title="National TV",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
