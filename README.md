@@ -638,6 +638,15 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/11/Abu-Dhabi-Sports-2.jpg " group-title="Sports",AD Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+
+#EXTINF:0 tvg-country="AR" tvg-logo=" https://dash.tvzinos.com/assets/images/channel/323783.jpg" group-title="Sports",C Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+
+
 
 
 
