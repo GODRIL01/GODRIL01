@@ -264,6 +264,7 @@ https://av-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MENTARI.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",MENTARI
+https://live-production.secureswiftcontent.com/exp=1676316908~acl=/hls-p/ingest_8237_*/*~hmac=aeceeac0cd3aff4da4e7935264fccb66ef00b30855ce1693d2e04a71897b4ffa/hls-p/ingest_8237_720p/index.m3u8
 https://geocities.ws/ariev7xx/mentari.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
