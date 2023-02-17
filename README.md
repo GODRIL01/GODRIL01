@@ -673,7 +673,17 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s.id/1d1Gl ",Bein sports 1
+#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s.id/1d1HB ",Bein sports 3
+#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+https://sport.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 
