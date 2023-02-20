@@ -43,7 +43,7 @@ https://geocities.ws/ariev7xx/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://www.kibrispdr.org/data/431/gambar-logo-trans-7-0.jpg " group-title="National TV",Trans 7
+#EXTINF:0 tvg-id="Trans7.Id" tvg-logo=" https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="National TV",Trans 7
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,7 +55,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1178308444_b744100_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://cdn.kibrispdr.org/data/755/logo-kompas-tv-png-8.png " group-title="National TV",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png " group-title="National TV",Kompas TV
 https://anevi-live-channel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
