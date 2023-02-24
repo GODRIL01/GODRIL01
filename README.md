@@ -685,7 +685,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 group-title="Sports " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 
-#EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/2036px-BRI_Liga_1.svg.png " group-title="BRI LIGA INDONESIA", BRI LIGA 1
+#EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/2036px-BRI_Liga_1.svg.png " group-title="Sports", BRI LIGA 1
 http://golive.yn.lt/live/liga1/01.m3u8
 
 
