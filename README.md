@@ -36,6 +36,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1677401325~acl=/hls-p/ingest_206_*/*~hmac=8bcad43b7468456df4faa3f0c0db8fff55b1c769c54621880db68c6f7b632599/hls-p/ingest_206_720p/1677386937000.ts
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
